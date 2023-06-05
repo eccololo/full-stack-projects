@@ -12,6 +12,9 @@ body {
 
 h1 {
   font-size: 5rem;
+  display: block;
+  clear: both;
+  margin-top: 100px;
 }
 
 footer {
@@ -21,4 +24,20 @@ footer {
 
 span {
   color: #191970;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  float: left;
+}
+
+.card {
+  display: inline-block;
+}
+
+.logo {
+  display: block;
+  width: 200px;
+  height: 40px;
 }
