@@ -26,3 +26,11 @@
   height: 100px;
   border-radius: 50%;
 }
+
+.feature-icon {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+    background-color: #e8ecef;
+    vertical-align: middle;
+}
